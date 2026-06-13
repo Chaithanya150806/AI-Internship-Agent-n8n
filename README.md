@@ -190,17 +190,10 @@ Through this project, I learned:
 
 ---
 
-## 📁 Repository Structure
+## WorkFlow 
 
-```text
-AI-Internship-Agent-n8n/
-│
-├── README.md
-├── internship-agent.json
-│
-└── assets/
-    ├── workflow.png
-    └── screenshots/
+<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/bd20a596-64b4-4a8a-aed4-c0594d9d5faa" />
+
 ```
 
 ---
@@ -211,22 +204,6 @@ Built an AI-powered Internship Analysis Agent using n8n, LLMs, and Gmail automat
 
 ---
 
-## 👨‍💻 Author
-
-**Chaithanya K**
-
-Computer Science Engineering Student
-
-Interested in:
-- Artificial Intelligence
-- Cybersecurity
-- Workflow Automation
-- Software Development
-
-GitHub:
-https://github.com/Chaithanya150806
-
----
 
 ## ⭐ Project Status
 
