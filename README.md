@@ -3,13 +3,15 @@
 
 An AI-powered internship analysis and recommendation system built using **n8n**, **LLMs**, and **Gmail Automation**.
 
-This workflow automatically analyzes internship opportunities, evaluates their relevance to a Computer Science student interested in AI, Python, C++, and Cybersecurity, generates a match score, identifies required skills, and delivers a detailed report via email.
+This workflow automatically analyzes internship opportunities, evaluates their relevance to a Computer Science student interested in
+AI, Python, C++, and Cybersecurity, generates a match score, identifies required skills, and delivers a detailed report via email.
 
 ---
 
 ## 📌 Project Overview
 
-Finding relevant internships often requires manually reading job descriptions, comparing requirements with personal interests, and deciding whether to apply.
+Finding relevant internships often requires manually reading job descriptions, comparing requirements with personal interests, 
+and deciding whether to apply.
 
 This project automates that process using AI.
 
@@ -201,7 +203,9 @@ Through this project, I learned:
 
 ## 💼 Resume Description
 
-Built an AI-powered Internship Analysis Agent using n8n, LLMs, and Gmail automation to evaluate internship opportunities, generate match scores, identify required skills, and automatically deliver personalized reports through email.
+Built an AI-powered Internship Analysis Agent using n8n, LLMs, and Gmail automation to
+evaluate internship opportunities, generate match scores, identify required skills,
+and automatically deliver personalized reports through email.
 
 ---
 
