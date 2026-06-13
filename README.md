@@ -192,7 +192,8 @@ Through this project, I learned:
 
 ## WorkFlow 
 
-<img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/bd20a596-64b4-4a8a-aed4-c0594d9d5faa" />
+<img width="1227" height="474" alt="image" src="https://github.com/user-attachments/assets/e84f5210-fa19-4e4a-bc2f-d631551cb23a" />
+
 
 ```
 
