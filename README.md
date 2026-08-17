@@ -15,7 +15,7 @@ and deciding whether to apply.
 
 This project automates that process using AI.
 
-The workflow:
+The workflow: 
 
 1. Receives internship information.
 2. Sends the information to an AI model.
