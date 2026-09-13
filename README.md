@@ -8,7 +8,7 @@ AI, Python, C++, and Cybersecurity, generates a match score, identifies required
 
 ---
 
-## 📌Project Overview 
+## 📌Project Overview  
 
 Finding relevant internships often requires manually reading job descriptions, comparing requirements with personal interests, 
 and deciding whether to apply. 
