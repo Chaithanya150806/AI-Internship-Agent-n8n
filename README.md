@@ -7,7 +7,7 @@ This workflow  automatically analyzes internship opportunities, evaluates their 
 AI, Python, C++, and Cybersecurity, generates a match score, identifies required skills, and delivers a detailed report via email.
 
 ---
-
+ 
 ## 📌Project Overview  
 
 Finding relevant internships often requires manually reading job descriptions, comparing requirements with personal interests, 
